@@ -17,7 +17,7 @@ This is a **personal portfolio website** to showcase my skills, projects, and co
 ## 🛠️ Technologies Used
 - **HTML5** - Structure the webpage  
 - **CSS3** - Styling and layout  
-- **JavaScript** - Interactivity (if applicable)  
+- **JavaScript** - Interactivity 
 
 ## 🚀 Installation & Setup
 Follow these steps to set up the project on your local system:
